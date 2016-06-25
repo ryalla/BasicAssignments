@@ -1,2 +1,3 @@
 Rajashekar Reddy Yalla
-This Project describes about the basic documents
+Contact me: rajashekaryalla@gmail.com
+This Project contains some of the assignments I have done.
